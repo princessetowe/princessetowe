@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CLASSIE](https://github.com/Bhlak/Classie)
 
-- 🌱 I’m currently learning **API integration, JavaScript**
+- 🌱 I’m currently learning **API integration**
 
 - 📫 How to reach me **princessetowe@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princessetowe&label=Profile%20views&color=0e75b6&style=flat" alt="olu-oni" /> </p>
