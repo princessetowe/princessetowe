@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **API integration**
 
 - 📫 How to reach me **princessetowe@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princessetowe&label=Profile%20views&color=0e75b6&style=flat" alt="olu-oni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princessetowe&label=Profile%20views&color=0e75b6&style=flat" alt="princess-etowe" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/princessetowe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princessetowe" height="30" width="40" /></a>
