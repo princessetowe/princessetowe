@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Princess</h1>
 <h3 align="center">A passionate Back-end developer.</h3>
 
-- 🔭 I’m currently working on [CLASSIE](https://github.com/Bhlak/Classie)
+- 🔭 I’m currently working on [A wallet system](https://github.com/princessetowe/princess_wallet_system)
 
 - 🌱 I’m currently learning **API integration**
 
