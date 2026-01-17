@@ -29,6 +29,3 @@
   <li><b>Wallet System</b> – A wallet API and backend that handles user accounts, wallets, top-ups, transfers, and KYC flows.</li>
   <li><b>Social Media API</b> – A RESTful API to power a social media-like service with posts, comments, and authentication.</li>
 </ul>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princessetowe&show_icons=true&locale=en&layout=compact" alt="princessetowe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princessetowe&show_icons=true&locale=en" alt="princessetowe" /></p>
